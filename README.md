@@ -1,8 +1,8 @@
 # ML
 This repository contains multiple beginner-to-intermediate level Machine Learning projects, implemented using Python and Google Colab. Each project demonstrates how ML techniques can be applied to solve real-world problems in healthcare, natural language processing, and recommendation systems.
 
-**Projects Included
-1. Diabetes Prediction**
+**Projects Included**
+**1. Diabetes Prediction**
 
 File: Diabetes_Prediction.ipynb
 
@@ -42,14 +42,3 @@ Google Colab / Jupyter Notebook
 
 Libraries: NumPy, Pandas, Matplotlib, Scikit-learn, Seaborn
 
-**How to Use**
-
-Clone this repository:
-
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
-
-
-Open any notebook in Google Colab or Jupyter Notebook.
-
-Run all cells to train and test the models.
